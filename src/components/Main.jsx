@@ -5,7 +5,8 @@ const Main = () => {
     <div id="main">
     <div id="navbar">
       <div>Contact List</div>
-    </div>
+      </div>
+      <div>This is the Main Change</div>
     <div id="container">
       {/* your components here */}
     </div>
